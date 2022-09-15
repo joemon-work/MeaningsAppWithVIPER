@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>SchemeUserState</key>
+	<dict>
+		<key>MeaningsAppUsingViperArch.xcscheme_^#shared#^_</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>0</integer>
+		</dict>
+	</dict>
+	<key>SuppressBuildableAutocreation</key>
+	<dict>
+		<key>2D5E268628BCC95900ADC3CE</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>2D5E269C28BCC95A00ADC3CE</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>2D5E26A628BCC95A00ADC3CE</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+	</dict>
+</dict>
+</plist>
